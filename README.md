@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning JavaScript libraries.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibizaSunrise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
