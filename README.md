@@ -1,20 +1,28 @@
 ## 👋 Hi, I’m Mila.
 
-- 👀 I’m interested in JavaScript.
-- 🌱 I’m currently learning JavaScript libraries.
+- 👀 I’m interested in JavaScript
 
 <img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/ibizaSunrise/badges/large"/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibizaSunrise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
 
 
 ### Skils and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
+<img align="left" alt="express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="mongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img align="left" alt="mongoDB" width="26px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"/>
 
 
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibizaSunrise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
