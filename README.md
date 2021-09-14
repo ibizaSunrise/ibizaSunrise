@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript
 
 <img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/ibizaSunrise/badges/large"/>
-<br/>
+<br>
 
 
 ### Skils and tools
@@ -20,9 +20,9 @@
 
 
 
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibizaSunrise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
