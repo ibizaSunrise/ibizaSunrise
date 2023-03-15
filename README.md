@@ -20,6 +20,9 @@
 <img align="left" alt="express" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 <img align="left" alt="mongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" alt="mongoDB" width="35px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"/>
+<img align="left" alt="laravel" width="35px" src="https://user-images.githubusercontent.com/66250856/225465067-cf76359d-ac18-4a93-9a94-43e2cc2233db.png"/>
+
+
 
 
 
