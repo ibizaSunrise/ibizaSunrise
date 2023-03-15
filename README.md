@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Mila.
+## 👋 Hi, I’m Liudmila.
 
-- 👀 I’m interested in JavaScript
+- 👀 I’m fond of coding
 
 <img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/ibizaSunrise/badges/large"/>
 
@@ -21,6 +21,7 @@
 <img align="left" alt="mongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" alt="mongoDB" width="35px" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"/>
 <img align="left" alt="laravel" width="35px" src="https://user-images.githubusercontent.com/66250856/225465067-cf76359d-ac18-4a93-9a94-43e2cc2233db.png"/>
+<img align="left" alt="vuejs" width="35px" src="https://user-images.githubusercontent.com/66250856/225466365-1d2bc260-2f85-4a81-b1d4-603a4858ba59.png"/>
 
 
 
